@@ -6,7 +6,7 @@ Several teams confront on a tiles map containing resources.
 The winning team is the one with 6 players who reached maximum elevation.
 The following pages describe all the details and constraints.
 
-Easily one of the bigest project I've made yet with a group of 6 persons. To see the full document of this asignement, look a the PDF.
+Easily one of the bigest project I've made yet with a group of 6 persons. To see the full document of this asignement, look at the PDF.
 
 - **Codded primarly in C++ and C**
 
